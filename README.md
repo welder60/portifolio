@@ -13,6 +13,7 @@ Controles:
 < >: Move a barra.
 ESPAÇO: Ativa o modo automático.
 F1: Ativa o modo preto e branco.
+
 Dificuldade:
 Ajustável pela constante DIFICULDADE no código. Essa variável controla a velocidade da bola e o desafio dos níveis.
 
