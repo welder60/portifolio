@@ -1,34 +1,34 @@
-Este é o projeto final da disciplina APC, um jogo em C inspirado no clássico "Arcanoid". O jogador controla uma barra para rebater uma bola e quebrar blocos no topo da tela. O objetivo é destruir todos os blocos sem deixar a bola cair.
+# Portfólio de Welder Rodrigues de Medeiros
 
-Funcionalidades
-Controles:
+Este é o repositório do meu portfólio pessoal, criado para compartilhar meus projetos, habilidades e experiências na área de desenvolvimento de software. O portfólio está disponível no GitHub Pages, onde você pode explorar meus principais projetos e entrar em contato comigo.
 
-	< >: Move a barra.
-	ESPAÇO: Ativa o modo automático.
-	F1: Ativa o modo preto e branco.
-	Dificuldade:
-	Ajustável pela constante DIFICULDADE no código. Essa variável controla a velocidade da bola e o desafio dos níveis.
+## 🌐 Acesse o Portfólio
 
-Elementos do Jogo:
+[Visite meu portfólio online](https://welder60.github.io/portifolio)
 
-	Barra: Controlada pelo jogador para rebater a bola.
-	Bola: Rebate nas bordas e na barra. Destrói blocos ao contato.
-	Blocos: Dispostos em um array bidimensional, representando o campo de jogo.
+## 📜 Sobre o Portfólio
 
-Como Compilar e Executar:
+Este portfólio foi desenvolvido utilizando apenas HTML e CSS, seguindo as melhores práticas de organização de código e responsividade. No site, você encontrará:
 
-	Pré-requisitos: É necessário um compilador de C, como GCC, e uma IDE compatível, como Code::Blocks.
-	Compilação: Compile o código usando um comando como gcc main.c -o jogo.
-	Execução: Rode o jogo com ./jogo no terminal.
+- **Seção Sobre**: Uma breve introdução sobre mim, incluindo minha formação e interesses profissionais.
+- **Projetos**: Uma galeria de projetos que inclui aplicações, jogos e outros trabalhos em que participei.
+- **Contato**: Links para redes sociais e email, facilitando o contato direto.
 
-Estrutura do Código:
+## 🛠️ Tecnologias Utilizadas
 
-	main.c: Arquivo principal que contém a lógica do jogo.
-	desenho.h: Biblioteca auxiliar para desenhos e layouts na tela.
-	Variáveis globais e macros configuráveis para ajustar o comportamento do jogo.
+- **HTML**: Para estruturar o conteúdo da página.
+- **CSS**: Para estilização e design responsivo.
 
-Melhorias Futuras:
+## 📂 Estrutura do Projeto
 
-	Adicionar níveis progressivos.
-	Implementar pontuação e sistema de vidas.
-	Criar uma interface gráfica com cores e animações adicionais.
+- `index.html`: Página principal do portfólio com seções organizadas e links para os projetos.
+- `style.css`: Arquivo de estilo que define a aparência e o layout do portfólio.
+- `src/`: Pasta que contém as imagens usadas no portfólio.
+
+## 🚀 Como Rodar Localmente
+
+Caso deseje rodar o portfólio localmente, siga os passos abaixo:
+
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/welder60/portifolio.git
